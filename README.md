@@ -10,7 +10,7 @@ Se propondrá de manera paulatina una estructura que integrará diversas temáti
 
 ## Temas
 
-### I. Introducción a Python
+### [I. Introducción a Python](https://github.com/albertoid/cajas-negras-python/blob/master/I.%20Intoducci%C3%B3n%20a%20Pyhton.ipynb)
 
 1. Comprensión de Listas
 2. Diccionarios (dict), Tuplas (tupple) y Conjuntos (set)
